@@ -1,0 +1,6 @@
+[dlink]
+image=media\mimetypes\exe.ico
+name=explorer
+action=/explorer.exe /
+y=526
+x=827
