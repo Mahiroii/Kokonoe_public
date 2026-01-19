@@ -1,6 +1,0 @@
-[dlink]
-image=media\mimetypes\exe.ico
-name=Параметры
-action=/parameters.exe
-y=138
-x=590
