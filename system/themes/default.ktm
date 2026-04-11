@@ -1,0 +1,12 @@
+name=Default
+desktop=#4db4ff
+menu=rgba(36, 36, 36, 200)
+text_color=white
+desktop_hover=rgba(130, 130, 130, 40)
+desktop_hborder=1px solid #aaaaaa
+tray_hover=rgba(130, 130, 130, 40)
+font=Segoe UI
+ac=rgb(166, 255, 0)
+bp=rgb(0, 171, 255)
+attention=rgb(255, 241, 0)
+critical=rgb(255, 77, 0)
