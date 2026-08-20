@@ -1,4 +1,4 @@
 Turn off;/media/turnoff.ico;@turnoff
 Restart;/media/restart.ico;@restart
-About system;/media/start.ico;/parameters.exe 4
-Parameters;/media/window.ico;/parameters.exe 0
+About system;/media/parameters/about.ico;/programms/parameters/parameters.exe 0
+Parameters;/media/control.ico;/programms/parameters/parameters.exe 0

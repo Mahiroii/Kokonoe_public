@@ -1,4 +1,4 @@
-battery;140;/parameters.exe 5
+battery;140;/programms/parameters/parameters.exe 4
 volume;80;/volumex.exe
-lang;40;/parametrers.exe 6
-clock;80;/parameters.exe 7
+lang;40;/programms/parameters/parameters.exe 0
+clock;80;/programms/parameters/parameters.exe 0

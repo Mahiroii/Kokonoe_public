@@ -1,6 +1,6 @@
 name=Default
-desktop=#4db4ff
-menu=rgba(36, 36, 36, 200)
+desktop=rgb(20, 20, 20)
+menu=rgba(30, 30, 30, 200)
 text_color=white
 desktop_hover=rgba(130, 130, 130, 40)
 desktop_hborder=1px solid #aaaaaa
@@ -10,3 +10,8 @@ ac=rgb(166, 255, 0)
 bp=rgb(0, 171, 255)
 attention=rgb(255, 241, 0)
 critical=rgb(255, 77, 0)
+modalview=rgb(20, 20, 20)
+modal_btn=rgb(100, 100, 100)
+modal_btn_hover=rgb(120, 120, 120)
+contextview=rgba(20, 20, 20, 200)
+context_hover=rgba(100, 100, 100, 200)
